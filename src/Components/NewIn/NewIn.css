@@ -1,0 +1,19 @@
+.newin {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://static.massimodutti.net/assets/public/22c6/8e3d/595440608ef6/efbae5dcf374/whalloweendesktop/whalloweendesktop.jpg?ts=1729962659104&w=3500");
+    background-size: cover;
+    background-position: center;
+  /* margin-top: 0px; */
+}
+.page-title{
+ color: #fff;
+ display: flex;
+ font-size: 5px;
+ font-weight: lighter;
+ align-items: center;
+ justify-content: center;
+ position: absolute;
+ bottom: 50px;
+ left: 50%;
+}

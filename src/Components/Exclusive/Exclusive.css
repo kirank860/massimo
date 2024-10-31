@@ -1,0 +1,8 @@
+.exclusive{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://static.massimodutti.net/assets/public/6ada/e64f/e7864fdf92d2/ffc13f8ecf20/mppaadesktop01/mppaadesktop01.jpg?ts=1729787070055&w=3500");
+    background-size: cover;
+    background-position: center;
+  /* margin-top: 0px; */
+}
